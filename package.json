@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "vue": "^3.4.31",
+    "vue-tsc": "^2.0.26",
+    "typescript": "^5.5.3"
+  }
+}
